@@ -14,7 +14,8 @@ Technologies Used
   Maven
 
 How to Run the Application
-  Prerequisites
+
+  Prerequisites:
   Java 17+
   Maven
   PostgreSQL running locally
